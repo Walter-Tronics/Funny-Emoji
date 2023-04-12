@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    height: calc(100vh - 30px);
+    height: calc(100vh - 50px);
     display: flex;
     justify-content: center;
     align-items: center;
